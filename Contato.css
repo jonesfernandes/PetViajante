@@ -1,0 +1,66 @@
+@charset "utf-8";
+body {
+    background-color: #eef9ff ;
+    color: #1b1818;
+    font-family: League Spartan;
+}
+
+h2 {
+    background-color: #6cc9ff;
+    color: black;
+    text-align: center;
+    line-height: 100%;
+    font-family: Candara;
+    padding: 0.5em;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    
+}
+
+figure {
+    width: 320px;
+    padding: 5px;
+    border: 2px solid #000000;
+    
+}
+
+figcaption {
+    text-align: center;
+    font-family: Papyrus, fantasy;
+}
+
+# {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.s-m {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+    .s-m a{
+        display: inline-flex;
+        
+
+    }
+
+#showcase {
+    background-image: url('Pet\ logo.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+
+footer {
+    color: black;
+    font-size: .75em;
+    font-styke: italic;
+    font-family: 'Courier New', Courier, monospace;
+    }

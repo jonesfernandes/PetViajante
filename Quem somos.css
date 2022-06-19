@@ -1,0 +1,58 @@
+@charset "utf-8";
+body {
+    background-color: #eef9ff ;
+    color: #1b1818;
+    font-family: Papyrus, fantasy;
+}
+
+h2 {
+    background-color: #6cc9ff;
+    color: black;
+    text-align: center;
+    line-height: 100%;
+    font-family: Candara;
+    padding: 0.5em;
+}
+
+p  {
+    Color: rgb(7, 0, 0);
+    font-size: .90em;
+    font-family:  Candara;
+    padding: 1.0em;
+    line-height: 30px;
+    
+
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+figure {
+    width: 150px;
+    padding: 30px 30px;
+    border: 40px solid #000000;
+}
+
+figcaption {
+    text-align: center;
+    font-family: Papyrus, fantasy;
+}
+
+
+
+#showcase {
+    background-image: url('Pet\ logo.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+
+footer {
+    color: black;
+    font-size: .75em;
+    font-styke: italic;
+    font-family: 'Courier New', Courier, monospace;
+     }

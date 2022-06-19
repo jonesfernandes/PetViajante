@@ -1,0 +1,59 @@
+@charset "utf-8";
+* {
+margin: 0;
+padding: 0;
+}
+
+
+a {
+    font-size: 15px;
+    padding: 10px 25px;
+    border-radius: 15px;
+    color: white;
+    font-family: 400;
+    background: #6cc9ff;
+    text-align: center;
+    
+    
+
+}
+
+h1 {
+    color: #FCDA7B
+}
+
+p {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+color: #333;
+line-height: 1.6;
+text-align: center;
+}
+
+img {
+    background-size:cover;
+    height: 220px;
+    width: 220px;
+}
+
+
+#showcase {
+background-image: url('Fundo\ Inicial\ Cachorro.gif');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+footer {
+    color: white;
+    font-size: .75em;
+    font-styke: italic;
+    font-family: 'Courier New', Courier, monospace;
+    }
